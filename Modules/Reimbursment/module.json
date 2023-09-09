@@ -1,0 +1,13 @@
+{
+    "name": "Reimbursment",
+    "alias": "reimbursment",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Reimbursment\\Providers\\ReimbursmentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
